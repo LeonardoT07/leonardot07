@@ -13,6 +13,6 @@ E no meu tempo livre, gosto de brincar com o Bento (:dog:), assistir series (ðŸŽ
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardotguimaraes)](https://www.linkedin.com/in/leonardotguimaraes)
 
 <div style="display: flex; flex-direction: row;">
-  <img widht="350px" align="left" src="https://github-readme-stats.vercel.app/api?username=LeonardoT07&theme=tokyonight"/> 
-  <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoT07&hide=html&layout=compact&theme=tokyonight"/>
+  <img widht="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=LeonardoT07&theme=tokyonight"/> 
+  <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoT07&hide=html&layout=compact&theme=tokyonight"/>
 </div>
