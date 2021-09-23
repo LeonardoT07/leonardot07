@@ -1,18 +1,20 @@
-### Olá Pessoal! 😁
+# Olá, eu sou o Léo! 😁
 
-Meu nome é Leonardo Tavares, moro em Campinas - São Paulo.
+## 👨‍💻 Sobre Mim
+ 🔹 Formado em Ciência da Computação como Bacharel pela Universidade Paulista.</br>
+ 🔹 Desenvolvedor Web na VOLL Pilates.</br>
+ 🔹 Apaixonado por tecnologia e pelo aprendizado contínuo.
+  
 
-Sou formado em Ciência da Computação pela Universidade Paulista (UNIP) e atualmente estou cursando um Bootcamp em Front-End, buscando me especializar e aprender mais sobre React e as tecnologias em alta no mercado. 
-Hoje, trabalho no desenvolvimento sites e soluções para web (integrações de API's, CRM's e novas ideias a serem implementadas), com foco em Acessibilidade e SEO, utilizando Wordpress e PHP. Além disso, auxilio na manutenção de sites recorrentes, suporte técnico em informática e manutenção de e-mails.
+## 📩 Contato
+<div>
+ <a href="https://github.com/LeonardoT07"><img src="https://img.shields.io/badge/Github-282C34?Github=for-the-badge&logo=github&logoColor=ffffff"  height="25" /></a>
+ <a href="https://www.linkedin.com/in/leonardotguimaraes/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
+  <a href="mailto:leonardotg07@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-282C34?hotmail=for-the-badge&logo=hotmail&logoColor=D14836"  height="25" /></a>
+</div>
 
-Amo trabalhar com front-end, criando "quadrados coloridos com texto e telinhas bonitas" :grin: <br>
-E no meu tempo livre, gosto de brincar com o Bento (:dog:), assistir series (🎞️), lives (📺) e jogar alguns jogos (:video_game:).
-
-
-#### Minhas Redes:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardotguimaraes)](https://www.linkedin.com/in/leonardotguimaraes)
-
-<div style="display: flex; flex-direction: row;">
-  <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=LeonardoT07&theme=tokyonight"/> 
+## 🤖 GitHub Stats
+<div>
+  <img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=LeonardoT07&show_icons=true&theme=tokyonight"/> 
   <img width="350px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoT07&hide=html&layout=compact&theme=tokyonight"/>
 </div>
