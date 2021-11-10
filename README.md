@@ -8,7 +8,6 @@
 
 ## 📩 Contato
 <div>
- <a href="https://github.com/LeonardoT07"><img src="https://img.shields.io/badge/Github-282C34?Github=for-the-badge&logo=github&logoColor=ffffff"  height="25" /></a>
  <a href="https://www.linkedin.com/in/leonardotguimaraes/"><img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" /></a>
   <a href="mailto:leonardotg07@hotmail.com"><img src="https://img.shields.io/badge/Hotmail-282C34?hotmail=for-the-badge&logo=hotmail&logoColor=D14836"  height="25" /></a>
 </div>
