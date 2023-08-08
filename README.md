@@ -1,12 +1,12 @@
-# Olá, eu sou o Léo! 😁
+# Hello, I'm Léo! 😁
 
-## 👨‍💻 Sobre Mim
- 🔹 Formado em Ciência da Computação como Bacharel pela Universidade Paulista.</br>
- 🔹 Desenvolvedor Web na VOLL Pilates.</br>
- 🔹 Apaixonado por tecnologia e pelo aprendizado contínuo.
+## 👨‍💻 About me
+ 🔹 Bachelor's Degree in Computer Science from Universidade Paulista.</br>
+ 🔹 Web Developer at VOLL Pilates.</br>
+ 🔹 Passionate about technology and continuous learning.
   
 
-## 📩 Contato
+## 📩 Contact
 <div>
  <a href="https://www.linkedin.com/in/leonardotguimaraes/">
   <img src="https://img.shields.io/badge/Linkedin-282C34?gmail=for-the-badge&logo=Linkedin&logoColor=0077B5"  height="25" />
