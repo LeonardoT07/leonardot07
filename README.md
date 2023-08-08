@@ -1,7 +1,7 @@
 # Hello, I'm Léo! 😁
 
 ## 👨‍💻 About me
- 🔹 Bachelor's Degree in Computer Science from Universidade Paulista.</br>
+ 🔹 Graduated in Computer Science from Universidade Paulista.</br>
  🔹 Web Developer at VOLL Pilates.</br>
  🔹 Passionate about technology and continuous learning.
   
